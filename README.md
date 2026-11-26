@@ -19,7 +19,7 @@ A responsive study planner built using HTML, CSS and JavaScript.
 - GitHub Pages
 
 ## Live Demo
-https://vanshsoni12.github.io/-studyspark-study-planner/
+https://vanshsoni12.github.io/-studyspark-study-planner./
 
 ## Run Locally
 Open index.html in browser or use VS Code Live Server.
